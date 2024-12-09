@@ -1,0 +1,7 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NZ_JALCZR000000000.1 1 1820443
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1255
+NZ_JALCZR000000000.1	RefSeq	region	1	1820443	.	+	.	ID=NZ_JALCZR000000000.1:1..1820443;Dbxref=taxon:1255;collection-date=2011-05-16;country=Mexico: Baja California Sur%2C Pacific Ocean;gbkey=Src;isolation-source=digestive gland;lat-lon=25.193889 N 112.112500 W;mol_type=genomic DNA;nat-host=Crassostrea corteziensis;strain=PP16CC
+
