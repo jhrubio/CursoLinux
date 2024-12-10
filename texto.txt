@@ -1,0 +1,3 @@
+Un grupo de estudiantes entusiastas decidió inscribirse en un curso de Linux, atraídos por la promesa de aprender algo nuevo y desafiante. Desde el primer día, el aula se llenó de risas y camaradería mientras descubrían el mundo de los comandos y scripts. Las bromas sobre "sudo hacer todo" y los retos para encontrar los comandos más creativos hicieron que cada sesión fuera divertida y emocionante.
+
+A medida que avanzaban, los estudiantes comenzaron a competir amistosamente en pequeños desafíos propuestos por el instructor, como escribir scripts útiles o personalizar sus terminales. Entre risas y consejos, aprendieron que, además de ser una herramienta poderosa, Linux podía ser una fuente inesperada de diversión.
